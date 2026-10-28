@@ -1,4 +1,4 @@
-# Working-Character-level-generator#
+# Working-Character-level-generator
 
 Pipeline Architecture
 
